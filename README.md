@@ -1,7 +1,5 @@
 # Austin-Taxas-Water-Quality-Case-Study-
-# Austin Water Quality Case Study
-
-# Load in the libraries that we'll need
+### Load in the libraries that we'll need
 pacman::p_load(tidyverse, lubridate, stringr)
 
 ### loading the dataset 
